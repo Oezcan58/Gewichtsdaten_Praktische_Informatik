@@ -1,0 +1,2 @@
+# Gewichtsdaten_Praktische_Informatik
+Hochschul-Projekt
